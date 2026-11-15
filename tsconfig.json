@@ -1,0 +1,1 @@
+{"compilerOptions":{"exactOptionalPropertyTypes":false,"lib":["ES2024"],"module":"NodeNext","moduleResolution":"NodeNext","noUncheckedIndexedAccess":true,"skipLibCheck":true,"strict":true,"target":"ES2024"},"include":["*.ts"]}

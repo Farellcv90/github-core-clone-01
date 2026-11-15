@@ -1,0 +1,1 @@
+{"description":"A standalone GitHub-compatible git forge: smart HTTP, REST v3, GraphQL v4, and MCP, built on the Node standard library alone.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"github-core-clone","scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
